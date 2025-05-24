@@ -10,9 +10,14 @@ header nav{
     width: 1366px;
     margin: 0 auto;  
 }
-h1{
-    color: aqua;
+.articles{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
-#op {
-    background-color: bisque;
+.articles article img{
+    height: 180px;
+}
+.articles article{
+    width: 30%;
 }
