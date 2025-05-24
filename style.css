@@ -3,6 +3,13 @@
     margin: 0;
     padding: 0;
 }
+header nav{
+    display: inline;
+}
+.conteiner{
+    width: 1366px;
+    margin: 0 auto;  
+}
 h1{
     color: aqua;
 }
