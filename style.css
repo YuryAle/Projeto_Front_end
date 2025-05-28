@@ -52,6 +52,7 @@ section {
 }
 .articles article a:hover{
     text-decoration: underline;
+    background-color: rgb(44, 141, 215);
 }
 .articles article h2{
     margin-bottom: 10px;
